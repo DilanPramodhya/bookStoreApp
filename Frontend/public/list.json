@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "Explore worlds beyond your imagination with our curated collection of books",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713974751~exp=1713978351~hmac=64e29afeec02156dbdc92f655f3c2db9ea899b5e79c27bbbf5b92b77cd0e95bd&w=740"
+    },
+    {
+        "id": 2,
+        "name": "Novel Book",
+        "title": "Explore worlds beyond your imagination with our curated collection of books",
+        "price": 50,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713974751~exp=1713978351~hmac=64e29afeec02156dbdc92f655f3c2db9ea899b5e79c27bbbf5b92b77cd0e95bd&w=740"
+    },
+    {
+        "id": 3,
+        "name": "Music Book",
+        "title": "Explore worlds beyond your imagination with our curated collection of books",
+        "price": 100,
+        "category": "Song",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713974751~exp=1713978351~hmac=64e29afeec02156dbdc92f655f3c2db9ea899b5e79c27bbbf5b92b77cd0e95bd&w=740"
+    },
+    {
+        "id": 4,
+        "name": "Story Book",
+        "title": "Explore worlds beyond your imagination with our curated collection of books",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713974751~exp=1713978351~hmac=64e29afeec02156dbdc92f655f3c2db9ea899b5e79c27bbbf5b92b77cd0e95bd&w=740"
+    },
+    {
+        "id": 5,
+        "name": "Food Book",
+        "title": "Explore worlds beyond your imagination with our curated collection of books",
+        "price": 200,
+        "category": "Food",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713974751~exp=1713978351~hmac=64e29afeec02156dbdc92f655f3c2db9ea899b5e79c27bbbf5b92b77cd0e95bd&w=740"
+    },
+    {
+        "id": 6,
+        "name": "Story Book",
+        "title": "Explore worlds beyond your imagination with our curated collection of books",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713974751~exp=1713978351~hmac=64e29afeec02156dbdc92f655f3c2db9ea899b5e79c27bbbf5b92b77cd0e95bd&w=740"
+    },
+    {
+        "id": 7,
+        "name": "Story Book",
+        "title": "Explore worlds beyond your imagination with our curated collection of books",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713974751~exp=1713978351~hmac=64e29afeec02156dbdc92f655f3c2db9ea899b5e79c27bbbf5b92b77cd0e95bd&w=740"
+    },
+    {
+        "id": 8,
+        "name": "Sports Book",
+        "title": "Explore worlds beyond your imagination with our curated collection of books",
+        "price": 50,
+        "category": "Sports",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713974751~exp=1713978351~hmac=64e29afeec02156dbdc92f655f3c2db9ea899b5e79c27bbbf5b92b77cd0e95bd&w=740"
+    },
+    {
+        "id": 9,
+        "name": "Story Book",
+        "title": "Explore worlds beyond your imagination with our curated collection of books",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713974751~exp=1713978351~hmac=64e29afeec02156dbdc92f655f3c2db9ea899b5e79c27bbbf5b92b77cd0e95bd&w=740"
+    },
+    {
+        "id": 11,
+        "name": "Comedy Book",
+        "title": "Explore worlds beyond your imagination with our curated collection of books",
+        "price": 20,
+        "category": "Entertainment",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713974751~exp=1713978351~hmac=64e29afeec02156dbdc92f655f3c2db9ea899b5e79c27bbbf5b92b77cd0e95bd&w=740"
+    },
+    {
+        "id": 10,
+        "name": "Story Book",
+        "title": "Explore worlds beyond your imagination with our curated collection of books",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713974751~exp=1713978351~hmac=64e29afeec02156dbdc92f655f3c2db9ea899b5e79c27bbbf5b92b77cd0e95bd&w=740"
+    }
+]
